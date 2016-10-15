@@ -11,7 +11,8 @@ $,
 "\U00A3",
 "&",
 /product,
-"\U00A7"
+"\U00A7",
+/Lslash
 );
 classes = (
 {
@@ -13323,7 +13324,7 @@ unicode = 004B;
 },
 {
 glyphname = Kcommaaccent;
-lastChange = "2016-10-08 17:34:18 +0000";
+lastChange = "2016-10-15 19:23:42 +0000";
 layers = (
 {
 anchors = (
@@ -13385,7 +13386,7 @@ transform = "{1, 0, 0, 1, 149, 0}";
 }
 );
 layerId = "20F347C1-683B-45AE-B240-2F1F38013DFA";
-width = 493;
+width = 491;
 },
 {
 anchors = (
@@ -13865,7 +13866,7 @@ unicode = 013B;
 },
 {
 glyphname = Lslash;
-lastChange = "2016-10-14 14:26:26 +0000";
+lastChange = "2016-10-15 19:24:42 +0000";
 layers = (
 {
 anchors = (
@@ -13893,7 +13894,7 @@ closed = 1;
 nodes = (
 "143 315 LINE",
 "45 249 LINE",
-"45 125 LINE",
+"52 125 LINE",
 "143 221 LINE"
 );
 },
@@ -13903,7 +13904,7 @@ nodes = (
 "143 218 LINE",
 "337 375 LINE",
 "398 415 LINE",
-"397 529 LINE",
+"388 529 LINE",
 "310 450 LINE",
 "143 315 LINE"
 );
@@ -14024,8 +14025,8 @@ paths = (
 closed = 1;
 nodes = (
 "115 331 LINE",
-"-37 246 LINE",
-"-37 108 LINE",
+"-27 246 LINE",
+"-19 108 LINE",
 "115 225 LINE"
 );
 },
@@ -14033,10 +14034,10 @@ nodes = (
 closed = 1;
 nodes = (
 "71 198 LINE",
-"306 355 LINE",
-"372 387 LINE",
-"370 532 LINE",
-"248 436 LINE",
+"273 343 LINE",
+"342 385 LINE",
+"333 529 LINE",
+"218 417 LINE",
 "71 314 LINE"
 );
 }
