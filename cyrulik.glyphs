@@ -1,8 +1,5 @@
 {
 .appVersion = "928";
-DisplayStrings = (
-Yp
-);
 classes = (
 {
 automatic = 1;
@@ -26347,7 +26344,7 @@ unicode = 1E82;
 },
 {
 glyphname = Wcircumflex;
-lastChange = "2016-10-15 18:37:01 +0000";
+lastChange = "2016-10-17 15:17:16 +0000";
 layers = (
 {
 anchors = (
@@ -26464,11 +26461,11 @@ name = W;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 274, 127}";
+transform = "{1, 0, 0, 1, 270, 127}";
 }
 );
 layerId = "BB1D9E28-2A49-4EEB-AB77-8ACE100BF2E3";
-width = 802;
+width = 795;
 }
 );
 leftKerningGroup = V;
@@ -26477,7 +26474,7 @@ unicode = 0174;
 },
 {
 glyphname = Wdieresis;
-lastChange = "2016-10-15 18:37:01 +0000";
+lastChange = "2016-10-17 15:17:16 +0000";
 layers = (
 {
 anchors = (
@@ -26590,11 +26587,11 @@ name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 216, 127}";
+transform = "{1, 0, 0, 1, 212, 127}";
 }
 );
 layerId = "BB1D9E28-2A49-4EEB-AB77-8ACE100BF2E3";
-width = 802;
+width = 795;
 }
 );
 leftKerningGroup = V;
@@ -26603,7 +26600,7 @@ unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2016-10-15 18:37:01 +0000";
+lastChange = "2016-10-17 15:17:16 +0000";
 layers = (
 {
 anchors = (
@@ -26709,11 +26706,11 @@ name = W;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 337, 127}";
+transform = "{1, 0, 0, 1, 333, 127}";
 }
 );
 layerId = "BB1D9E28-2A49-4EEB-AB77-8ACE100BF2E3";
-width = 802;
+width = 795;
 }
 );
 leftKerningGroup = V;
