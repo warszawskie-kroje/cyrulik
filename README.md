@@ -11,8 +11,6 @@ Warsaw Types presents:
 
  ![specimen](images/specimen.jpg)
 
-
-
 ### Licence
 
 [SIL Open Font ](http://scripts.sil.org/OFL_web)
@@ -61,20 +59,20 @@ Warsaw Types project  is organised and coordinated by:
 
  [Miastodwa Culturemaking Association](https://www.facebook.com/miastodwa/). 
 
-![logo-strips-01](images/logo-strips-01.svg)
+ ![logo strips-01](images/logos-01.png)
 
 ------
 
  The project is run in cooperation with, and cofunded by [The City of Warsaw](http://www.um.warszawa.pl/). 
 
-![logo-strips-04](images/logo-strips-04.svg)
+![logo-strips-04](images/logos-04.png)
 
 ------
 
 Partners: 
 [The City of Warsaw](http://www.um.warszawa.pl/), [Muzeum Warszawy](http://muzeumwarszawy.pl/), [Warexpo](http://www.warexpo.pl/), [Transparent Shopping Collective](http://transparentshopping.com/)
 
- ![logo-strips-02](images/logo-strips-02.svg)
+ ![logo-strips-02](images/logos-02.png)
 
 
 
@@ -84,4 +82,4 @@ Media Partners:
 
 [Design Magazyn](http://www.designmagazyn.pl/), [Magazyn Miasta](http://publica.pl/kategoria-produktu/magazyn-miasta), [Gazeta Wyborcza Warszawa](http://warszawa.wyborcza.pl/), [Monitor Magazine](http://monitor-magazine.com/), [Notes na 6 Tygodni](http://notesna6tygodni.pl/), [Pańska Skórka](http://www.panskaskorka.com/)
 
-![logo-strips-03](images/logo-strips-03.svg)
+![logo-strips-03](images/logos-03.png)
