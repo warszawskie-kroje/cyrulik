@@ -29,7 +29,6 @@ Portfolio:
 
 [Personal Website](http://maciej.polczynski.com)
 
-[Behance](https://www.behance.net/krzyweto)
 
 
 
