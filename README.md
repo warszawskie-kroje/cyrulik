@@ -27,6 +27,7 @@ Graduated from the Art of New Media Dept. on Polish-Japanese Institute of Inform
 
 Portfolio:
 
+[Personal Website](http://maciej.polczynski.com)
 [Behance](https://www.behance.net/krzyweto)
 
 
