@@ -26,7 +26,7 @@ Copyright ©  2016 Stowarzyszenie Kulturotwórcze Miastodwa
 
 **Maciej Połczyński**
 
-Graduated from the New Media Arts in English course at the Polish-Japanese Academy of Information Technology in Warsaw. Specializes in type design, branding and animation. Scholar of the Type Directors Club. Running [Le Laïc: Type Foundry] (https://laic.pl) since 2018.
+Graduated from the New Media Arts in English course at the Polish-Japanese Academy of Information Technology in Warsaw. Specializes in type design, branding and animation. Scholar of the Type Directors Club. Running [Le Laïc: Type Foundry](https://laic.pl) since 2018.
  
 Portfolio:
 
