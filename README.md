@@ -2,7 +2,7 @@ Warsaw Types presents:
 
 ### Cyrulik
 
-“Cyrulik” is inspired by technical stencil lettering found on electrical and mechanical devices in Warsaw, and a prewar headline display font “Cyklop” used in a newspaper called “Cyrulik Warszawski”. The font design combines a strong and sturdy form with delicate and modern details, reflecting the contemporary character of Warsaw. Cyrulik comes in 4 distinct styles:
+“Cyrulik” origins from multiple sources. First of all, the lettering on post-war electrical boxes and mechanical devices around the streets of Warsaw. Next inspiration was a pre-war headline display typeface called “Cyklop”, mostly used in newspapers in italic style. The next inspiration is the lettering used in a newspaper called “Cyrulik Warszawski” pre and inter war magazine. The font design combines a strong and sturdy form with delicate and brush-like details, looking around for the contemporary character of Warsaw. Cyrulik comes in 4 distinct styles:
 
 - Cyrulik Sharp
 - Cyrulik Sharp Bold
@@ -23,11 +23,11 @@ Copyright ©  2016 Stowarzyszenie Kulturotwórcze Miastodwa
 
 **Maciej Połczyński**
 
-Graduated from the Art of New Media Dept. on Polish-Japanese Institute of Information Technology. Specializes in type design, branding and animation. Scholar of the Type Directors Club.
-
+Graduated from the New Media Arts in English course at the Polish-Japanese Academy of Information Technology in Warsaw. Specializes in type design, branding and animation. Scholar of the Type Directors Club. Running [Le Laïc: Type Foundry] (https://laic.pl) since 2018.
+ 
 Portfolio:
 
-[Personal Website](http://maciej.polczynski.com)
+[Personal Website](https://polczynski.info)
 
 
 
