@@ -11,6 +11,9 @@ Warsaw Types presents:
 
  ![specimen](images/specimen.jpg)
 
+![promo](images/cyrulik_okladka_martiszu.png)
+Promotional material designed by [Martiszu](https://martiszu.com/)
+
 ### Licence
 
 [SIL Open Font ](http://scripts.sil.org/OFL_web)
