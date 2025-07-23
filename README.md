@@ -2,7 +2,7 @@ Warsaw Types presents:
 
 ### Cyrulik
 
-“Cyrulik” origins from multiple sources. First of all, the lettering on post-war electrical boxes and mechanical devices around the streets of Warsaw. Next inspiration was a pre-war headline display typeface called “Cyklop”, mostly used in newspapers in italic style. The next inspiration is the lettering used in a newspaper called “Cyrulik Warszawski” pre and inter war magazine. The font design combines a strong and sturdy form with delicate and brush-like details, looking around for the contemporary character of Warsaw. Cyrulik comes in 4 distinct styles:
+“Cyrulik” origins from multiple sources – the name is an oldschool name for barber – who would also do some simple medical practices. First of all, the lettering on post-war electrical boxes and mechanical devices around the streets of Warsaw. Next inspiration was a pre-war headline display typeface called “Cyklop”, mostly used in newspapers in italic style. The next inspiration is the lettering used in a newspaper called “Cyrulik Warszawski” pre and inter war magazine. The font design combines a strong and sturdy form with delicate and brush-like details, looking around for the contemporary character of Warsaw. Cyrulik comes in 4 distinct styles:
 
 - Cyrulik Sharp
 - Cyrulik Sharp Bold
