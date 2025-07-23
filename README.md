@@ -45,16 +45,16 @@ All effects of our work will be available for free and for everyone to use on ou
 
 Workshop mentors:
 
-Michał Jarociński
-Viktoriya Grabowska
-Łukasz Dziedzic
-Adam Twardoch
-Jan Franciszek Cieślak
-Rene Wawrzkiewicz
+Michał Jarociński<br/>
+Viktoriya Grabowska<br/>
+Łukasz Dziedzic<br/>
+Adam Twardoch<br/>
+Jan Franciszek Cieślak<br/>
+Rene Wawrzkiewicz<br/>
 
 Guest speakers:
 
-Jarosław Zieliński
+Jarosław Zieliński<br/>
 Agata Szydłowska
 
 ------
